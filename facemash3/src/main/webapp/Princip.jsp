@@ -8,7 +8,7 @@
 <title>Facemash</title>
 </head>
 <body>
-<h1>ciao!</h1>
+<h1>ciao</h1>
 <% Random randomValue = new Random();
    String[] img = new String[5];
    
